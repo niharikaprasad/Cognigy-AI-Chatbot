@@ -3,7 +3,8 @@
 
 **InsureMax Chat Agent** is a fully functional conversational AI chatbot built using **Cognigy.AI**. This project demonstrates a production-ready workflow for a car insurance company, showcasing integration with **Azure AI LLMs**, knowledge stores, adaptive cards, and advanced AI-enhanced responses.  
 
-DEMO LINK - https://webchat-trial.cognigy.ai/v3/135b46f46a82c47684c70ad0f0eabac5693685e3323e78fc202eaeddc655aebb
+Youtube Video Demo - https://youtu.be/M6Hj67ucJp0
+Chatbot Demo  - https://webchat-trial.cognigy.ai/v3/135b46f46a82c47684c70ad0f0eabac5693685e3323e78fc202eaeddc655aebb
 ---
 
 ## **Features**
